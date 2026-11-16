@@ -6,7 +6,7 @@ as a time series, not a bag of sensor readings, and to be honest about what that
 buys me.
 
 There is a live demo built with Streamlit (`app.py`) where you can set the
-conditions and read a prediction.
+conditions and read a prediction: https://clownakeem-energy-forecasting.streamlit.app
 
 ## The problem
 
